@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Guess A Number</string>
+    <string name="bg_name"> Purple Bakground</string>
+    <string name="_guess">GUESS!</string>
+    <string name="_your_guess">Your Guess</string>
+    <string name="_attempts_remaining">Attempts remaining:</string>
+    <string name="game_start">START THE GAME</string>
 </resources>
